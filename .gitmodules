@@ -1,0 +1,15 @@
+[submodule "poc-web-player"]
+	path = poc-web-player
+	url = https://github.com/tauber-s/poc-web-player
+[submodule "poc-comparative-zustand-jotai-redux"]
+	path = poc-comparative-zustand-jotai-redux
+	url = https://github.com/tauber-s/poc-comparative-zustand-jotai-redux
+[submodule "poc-ecommerce"]
+	path = poc-ecommerce
+	url = https://github.com/tauber-s/poc-ecommerce
+[submodule "poc-terminal"]
+	path = poc-terminal
+	url = https://github.com/tauber-s/poc-terminal
+[submodule "poc-weather"]
+	path = poc-weather
+	url = https://github.com/tauber-s/poc-weather
